@@ -1,0 +1,4 @@
+<launch>
+  <node name="usb_cam_node" pkg="usb_cam" type="usb_cam_node" respawn="true" launch-prefix="xterm -e">
+  </node>
+</launch>
