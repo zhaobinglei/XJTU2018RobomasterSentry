@@ -1,0 +1,5 @@
+<launch>
+  <node name="serial_common_node" pkg="serial_common" type="serial_common_node" respawn="true">
+  </node>
+
+</launch>
