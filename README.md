@@ -1,11 +1,16 @@
 # XJTU2018RobomasterSentry
 This project is the computer vision algorithm of Xi'an Jiaotong University using for sentry's automatic aiming in the 2018 Robomaster. This project finally send target's coordinate(x, y of image coordinate system) to PLC through serial port.
+
 If you find any problem, you can contact me using WeChat. My WeChat ID: lesile_Perte912
 
 @Software Requirements:
+
 OpenCV3.3.1
+
 Ubuntu14.01
+
 ROS1.0 Kinetic
+
 Cmake2.8.3 version above
 
 @How to setup?
