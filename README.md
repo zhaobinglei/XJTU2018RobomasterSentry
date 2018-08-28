@@ -4,7 +4,7 @@ This project is the computer vision algorithm of Xi'an Jiaotong University using
 If you find any problem, you can contact me using WeChat. My WeChat ID: lesile_Perte912
 
 <br>
-**@Software Requirements:**
+** Software Requirements: **
 
 
 * OpenCV3.3.1
