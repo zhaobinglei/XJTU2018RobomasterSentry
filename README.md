@@ -6,7 +6,6 @@ If you find any problem, you can contact me using WeChat. My WeChat ID: lesile_P
 
 ### @Software Requirements: 
 
-
 * OpenCV3.3.1
 
 * Ubuntu14.01
@@ -14,7 +13,6 @@ If you find any problem, you can contact me using WeChat. My WeChat ID: lesile_P
 * ROS1.0 Kinetic
 
 * Cmake2.8.3 version above
-<br>
 
 ### @How to setup?
 
@@ -23,7 +21,6 @@ If you find any problem, you can contact me using WeChat. My WeChat ID: lesile_P
 2.put all of the folder in src
 
 3.catkin_make in the terminal of current path
-<br>
 
 ### @How to run?
 
@@ -44,3 +41,5 @@ If you find any problem, you can contact me using WeChat. My WeChat ID: lesile_P
 2./sentry_4.2/contours.h -color(select blue or red)
  
  you can change color in the last if-statement in the full_small_contours(..)-function 
+
+</br>
