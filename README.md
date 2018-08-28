@@ -4,7 +4,7 @@ This project is the computer vision algorithm of Xi'an Jiaotong University using
 If you find any problem, you can contact me using WeChat. My WeChat ID: lesile_Perte912
 
 <br>
-##@Software Requirements:
+## @Software Requirements:
 
 
 * OpenCV3.3.1
@@ -16,7 +16,7 @@ If you find any problem, you can contact me using WeChat. My WeChat ID: lesile_P
 * Cmake2.8.3 version above
 
 <br>
-##@How to setup?
+## @How to setup?
 
 
 1.build Kinetic initial condition
@@ -26,7 +26,7 @@ If you find any problem, you can contact me using WeChat. My WeChat ID: lesile_P
 3.catkin_make in the terminal of current path
 
 <br>
-##@How to run?
+## @How to run?
 
 
 1.Open terminal and input command: &roscore
@@ -38,7 +38,7 @@ If you find any problem, you can contact me using WeChat. My WeChat ID: lesile_P
 4.&rosrun package-name executable-name
 
 <br>
-##@Change the parameter
+## @Change the parameter
 
 
 1./sentry_4.2/opencv_testcam.cpp -lightness threshold 
