@@ -1,0 +1,4 @@
+<launch>
+  <node name="sentry_4_2" pkg="sentry_4_2" type="sentry_4_2" respawn="true" launch-prefix="gnome-terminal ">
+  </node>
+</launch>
