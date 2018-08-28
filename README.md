@@ -18,16 +18,14 @@ If you find any problem, you can contact me using WeChat. My WeChat ID: lesile_P
 
 ### @How to setup?
 
-
 1.build Kinetic initial condition
 
 2.put all of the folder in src
 
 3.catkin_make in the terminal of current path
-
 <br>
-### @How to run?
 
+### @How to run?
 
 1.Open terminal and input command: &roscore
 
@@ -37,9 +35,7 @@ If you find any problem, you can contact me using WeChat. My WeChat ID: lesile_P
 
 4.&rosrun package-name executable-name
 
-<br>
 ### @Change the parameter
-
 
 1./sentry_4.2/opencv_testcam.cpp -lightness threshold 
  
