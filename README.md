@@ -2,7 +2,6 @@
 This project is the computer vision algorithm of Xi'an Jiaotong University using for sentry's automatic aiming in the 2018 Robomaster. This project finally send target's coordinate(x, y of image coordinate system) to PLC through serial port.
 
 If you find any problem, you can contact me using WeChat. My WeChat ID: lesile_Perte912
-
 <br>
 
 ### @Software Requirements: 
@@ -15,7 +14,6 @@ If you find any problem, you can contact me using WeChat. My WeChat ID: lesile_P
 * ROS1.0 Kinetic
 
 * Cmake2.8.3 version above
-
 <br>
 
 ### @How to setup?
@@ -28,7 +26,6 @@ If you find any problem, you can contact me using WeChat. My WeChat ID: lesile_P
 3.catkin_make in the terminal of current path
 
 <br>
-
 ### @How to run?
 
 
@@ -41,7 +38,6 @@ If you find any problem, you can contact me using WeChat. My WeChat ID: lesile_P
 4.&rosrun package-name executable-name
 
 <br>
-
 ### @Change the parameter
 
 
